@@ -24,7 +24,7 @@
 # Skill
 
 ---
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 **Backend Development**
 Experience with Python, Java, and C in various projects
 
