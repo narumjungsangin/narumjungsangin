@@ -1,19 +1,10 @@
 # Junsu Yoon
-
 # About me
-
 **A Developer Who Thrives on Challenges**
 
 - I am majoring in Computer Information Technology (CIT) with a minor in Communication at Purdue University.
 - I am set to graduate in January 2026 and actively seek full-time programming and software engineering opportunities.
 - I enjoy discovering new opportunities and never shy away from a challenge, no matter how difficult.
-- Thanks to this mindset, I’ve been able to participate in a variety of projects.
-- I am open to opportunities across industries and always ready to dedicate myself to any team I join fully.
-
-**A Strong Believer in Team Growth**
-
-- The most outstanding results come when people work together.
-- I recruit the right people for each project and drive it forward, focusing on collaboration and execution.
 
 📧 Email: joonst26@gmail.com
 
