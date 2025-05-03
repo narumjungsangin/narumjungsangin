@@ -19,11 +19,13 @@
 
 
 **Backend Development**
+
 Experience with Python, Java, and C in various projects
 
 Familiar with AWS and Microsoft Azure
 
 **Frontend Development**
+
 Responsive web development using HTML/CSS/JavaScript
 
 User-focused UI design with React
